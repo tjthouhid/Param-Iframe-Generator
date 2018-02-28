@@ -10,7 +10,7 @@
 	**/
 	function param_iframe_generator( $atts ) {
 		$atts = shortcode_atts( array(
-			'url' => 'https://www.tjthouhid.com',
+			'url' => 'https://www.example.com',
 			'iframe-width' => '400px',
 			'iframe-height' => '400px' 
 	
