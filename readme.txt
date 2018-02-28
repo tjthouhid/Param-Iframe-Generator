@@ -14,6 +14,7 @@ This is a plugin for Easy Digital Download Software License Activator Notificati
 Version : 1.0.1
 This is plugin for creating iframe by current page get url parameter.
 WordPress.Org link : https://wordpress.org/plugins/param-iframe-generator/
+Github link : https://github.com/tjthouhid/Param-Iframe-Generator
 
 == Installation ==
 1. Download param-iframe-generator.zip and extract it.
